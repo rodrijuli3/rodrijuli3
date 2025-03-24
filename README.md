@@ -5,7 +5,7 @@
  
 #EXTINF:-1 , neo tv
  
-https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+https://unlimited1-buenosaires.dps.live/televidaar/televidaar.smil/playlist.m3u8
 
 
 #EXTINF:-1 , Canal 9
